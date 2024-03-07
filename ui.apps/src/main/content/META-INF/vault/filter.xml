@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/dcc/clientlibs"/>
+    <filter root="/apps/dcc/components"/>
+    <filter root="/apps/dcc/i18n"/>
+</workspaceFilter>

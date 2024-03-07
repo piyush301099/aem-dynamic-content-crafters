@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/dcc" mode="merge"/>
+    <filter root="/content/dcc" mode="merge"/>
+    <filter root="/content/dam/dcc/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/dcc" mode="merge"/>
+</workspaceFilter>
